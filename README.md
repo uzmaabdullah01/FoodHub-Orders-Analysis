@@ -40,4 +40,4 @@ This project analyzes FoodHub’s food delivery orders using Python. It includes
 
 ## Author
 **Uzma Abdullah**  
-Assistant Professor | Data Analyst | Machine Learning Enthusiast
+PhD Economics | Data Analyst | Machine Learning Enthusiast
