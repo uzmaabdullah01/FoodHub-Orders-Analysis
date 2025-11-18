@@ -1,0 +1,2 @@
+# A-FOODHUB-COMPANY-CUSTOMER-DEMAND-ANALYSIS-FOR-BUSINESSES-GROWTH-STUDY-OF-MOST-FAVOURITE-RESTAURANT
+FoodHub orders analysis using Python (Pandas, NumPy, Matplotlib, Seaborn). Project includes data cleaning, EDA, summary statistics, and visualizations to explore cuisine popularity, order value trends, customer ratings, and prep/delivery time patterns. Provides insights to improve FoodHub’s operations, customer experience, and revenue performance.
